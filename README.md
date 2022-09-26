@@ -22,3 +22,7 @@ More!
 And more!
 
 And many more!
+
+### Copyright
+
+2022 Git Training
