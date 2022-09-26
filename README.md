@@ -21,6 +21,8 @@ Yeah, let's contribute!
 More!
 And more!
 
+Fork, Pull and Friends.
+
 And many more!
 
 ### Copyright
