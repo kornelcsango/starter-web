@@ -29,4 +29,4 @@ And many more!
 
 ### Copyright
 
-2022 Git Training
+2022 Git Training, All rights reserved 
